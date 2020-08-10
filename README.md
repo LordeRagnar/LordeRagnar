@@ -1,16 +1,22 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**LordeRagnar/LordeRagnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>🤠 | Welcome to my profile</h1>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><strong>Hello, I'm starting my career at Full Stack 💪</strong></p>
+<br>
+
+I have a [Rocketseat 🚀](https://app.rocketseat.com.br/me/gabriel-barbosa-dos-santos-boechat-03028) profile if you want to **connect** with me
+
+- 📖 I’m currently learning: **CSS3**, **HTML5**, **JavaScript**, **MySQL** and **NodeJs**
+
+
+- ⛩ Fun fact: I like frogs 🐸
+
+<br>
+<br>
+<div align="center">
+<img src="clouds.gif" align="center" width="730px">
+</div>
+<p align="center"><i style="font-size: 9px">Clouds :)<i></p>
