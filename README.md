@@ -7,7 +7,7 @@
 <p align="center"><strong>Hello, I'm starting my career as a Full Stack developer 💪</strong></p>
 <br>
 
-I have a [Rocketseat 🚀](https://app.rocketseat.com.br/me/gabriel-barbosa-dos-santos-boechat-03028) profile if you want to **connect** with me
+I have a [Rocketseat 🚀](https://app.rocketseat.com.br/me/gabriel-barbosa-dos-santos-boechat-03028) profile if you want to "**connect**" with me
 
 - 📖 I’m currently learning: **CSS3**, **HTML5**, **JavaScript**, **MySQL** and **NodeJs**
 
