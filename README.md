@@ -16,7 +16,7 @@ I have a [Rocketseat 🚀](https://app.rocketseat.com.br/me/gabriel-barbosa-dos-
 
 <br>
 <br>
-/*<div align="center">
+<!--<div align="center">
 <img src="clouds.gif" align="center" width="730px">
 </div>
-<p align="center"><i style="font-size: 9px">Clouds :)<i></p>*/
+<p align="center"><i style="font-size: 9px">Clouds :)<i></p>*/-->
